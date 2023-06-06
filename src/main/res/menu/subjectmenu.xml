@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Mathematics"
+        android:id="@+id/muMathematicsPage"
+        />
+    <item android:title="Science"
+        android:id="@+id/muSciencePage"
+        />
+    <item android:title="English"
+        android:id="@+id/muEnglishPage"
+        />
+    <item android:title="Login"
+        android:id="@+id/muLoginPage"
+        />
+    <item android:title="Selection"
+        android:id="@+id/muSelectionPage"
+        />
+</menu>

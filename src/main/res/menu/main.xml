@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item android:title="Login Page"
+        android:id="@+id/muLoginPage"
+        android:background="@drawable/menu_item_selector"/>
+
+</menu>
